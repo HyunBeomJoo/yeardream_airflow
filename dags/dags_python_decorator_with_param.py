@@ -21,4 +21,4 @@ with DAG(
         from pprint import pprint
         pprint(kwargs)
 
-    python_task_1 = regist3('hjkim', 'man', 'seoul', email='hjkim_sun@naver.com', phone='010')
+    python_task_1 = regist3('hbjoo', 'man', 'suwon', email='apqpqi2163@gmail.com', phone='010')
