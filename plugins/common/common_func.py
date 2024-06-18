@@ -18,3 +18,6 @@ def regist2(name, sex, *args, **kwargs):
         print(email)
     if phone:
         print(phone)
+
+    data_interval_start = 
+    data_interval_end = 
