@@ -17,8 +17,8 @@ bash_t1 = BashOperator(
 )
 
 bash_t2 = BashOperator(
-    task_id="bash_t2"
-    bash_command="pwd"
+    task_id="bash_t2",
+    bash_command="pwd",
     dag=my_dag
 )
 
