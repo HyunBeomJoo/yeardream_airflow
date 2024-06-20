@@ -26,4 +26,4 @@ with DAG(
         print(data_interval_start)
         print(data_interval_end)
 
-python_task_1 = regist3('hbjoo', 'man', 'suwon', email='apqpqi2163@gmail.com', phone='010')
+    python_task_1 = regist3('hbjoo', 'man', 'suwon', email='apqpqi2163@gmail.com', phone='010')
